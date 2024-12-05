@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi
+=======
+This is a txt in the MyBranch branch
+>>>>>>> 665df960a4ee208cbefa98595e0b7d08f110a9ce
